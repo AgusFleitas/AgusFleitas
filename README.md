@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **any project that fits with the technologies I currently know or any other where I have the opportunity to learn something new.**
 
-- 💬 Ask me about **Javascript, React, Redux, Express, Postgres, Sequelize.**
+- 💬 Ask me about **Javascript, React, Redux, Express, PostgreSQL, Sequelize.**
 
 - 📫 How to reach me **agustinfleitasfaes@gmail.com**
 
