@@ -17,6 +17,7 @@
 - 📫 How to reach me **agustinfleitasfaes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-fleitas-faes/)
 [![Instagram](https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/agusvalentine)
 
